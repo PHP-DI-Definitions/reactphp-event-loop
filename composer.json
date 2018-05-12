@@ -1,0 +1,23 @@
+{
+    "name": "php-di-definitions/react-event-loop",
+    "require": {
+        "php": "^7.1",
+        "react/event-loop": "^1.0 || ^0.5"
+    },
+    "require-dev": {
+        "api-clients/test-utilities": "^4.3"
+    },
+    "extra": {
+        "php-di-definitions": {
+            "di": [
+                "config/di/event-loop.php"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true,
+        "platform": {
+            "php": "7.1"
+        }
+    }
+}
