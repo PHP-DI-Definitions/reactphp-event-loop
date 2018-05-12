@@ -10,7 +10,7 @@
     "extra": {
         "php-di-definitions": {
             "di": [
-                "config/di/event-loop.php"
+                "src/event-loop.php"
             ]
         }
     },
