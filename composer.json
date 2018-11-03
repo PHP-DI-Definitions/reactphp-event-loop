@@ -1,5 +1,7 @@
 {
     "name": "php-di-definitions/react-event-loop",
+    "license": "MIT",
+    "description": "PHP-DI definition for the ReactPHP event loop",
     "require": {
         "php": "^7.2",
         "react/event-loop": "^1.0 || ^0.5"
